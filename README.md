@@ -1,2 +1,2 @@
 # weather
-weather widget
+I hate the windows weather widget.
